@@ -1,0 +1,1935 @@
+[{
+  "name_en_full": "Islamic Emirate of Afghanistan",
+  "name_en_short": "Afghanistan",
+  "name_ru_full": "Исламский Эмират Афганистан",
+  "name_ru_short": "Афганистан",
+  "dial_code": "+93",
+  "iso_code": "AF"
+},
+  {
+    "name_en_full": "Aland Islands",
+    "name_en_short": "Aland Islands",
+    "name_ru_full": "Аландские острова",
+    "name_ru_short": "Аландские острова",
+    "dial_code": "+358",
+    "iso_code": "AX"
+  },
+  {
+    "name_en_full": "Republic of Albania",
+    "name_en_short": "Albania",
+    "name_ru_full": "Республика Албания",
+    "name_ru_short": "Албания",
+    "dial_code": "+355",
+    "iso_code": "AL"
+  },
+  {
+    "name_en_full": "People's Democratic Republic of Algeria",
+    "name_en_short": "Algeria",
+    "name_ru_full": "Алжирская Народная Демократическая Республика",
+    "name_ru_short": "Алжир",
+    "dial_code": "+213",
+    "iso_code": "DZ"
+  },
+  {
+    "name_en_full": "American Samoa",
+    "name_en_short": "American Samoa",
+    "name_ru_full": "Американское Самоа",
+    "name_ru_short": "Американское Самоа",
+    "dial_code": "+1 684",
+    "iso_code": "AS"
+  },
+  {
+    "name_en_full": "Principality of Andorra",
+    "name_en_short": "Andorra",
+    "name_ru_full": "Княжество Андорра",
+    "name_ru_short": "Андорра",
+    "dial_code": "+376",
+    "iso_code": "AD"
+  },
+  {
+    "name_en_full": "Republic of Angola",
+    "name_en_short": "Angola",
+    "name_ru_full": "Республика Ангола",
+    "name_ru_short": "Ангола",
+    "dial_code": "+244",
+    "iso_code": "AO"
+  },
+  {
+    "name_en_full": "Anguilla",
+    "name_en_short": "Anguilla",
+    "name_ru_full": "Ангилья",
+    "name_ru_short": "Ангилья",
+    "dial_code": "+1 264",
+    "iso_code": "AI"
+  },
+  {
+    "name_en_full": "Antarctica",
+    "name_en_short": "Antarctica",
+    "name_ru_full": "Антарктида",
+    "name_ru_short": "Антарктида",
+    "dial_code": "+672",
+    "iso_code": "AQ"
+  },
+  {
+    "name_en_full": "Antigua and Barbuda",
+    "name_en_short": "Antigua and Barbuda",
+    "name_ru_full": "Антигуа и Барбуда",
+    "name_ru_short": "Антигуа и Барбуда",
+    "dial_code": "+1268",
+    "iso_code": "AG"
+  },
+  {
+    "name_en_full": "Argentine Republic",
+    "name_en_short": "Argentina",
+    "name_ru_full": "Аргентинская Республика",
+    "name_ru_short": "Аргентина",
+    "dial_code": "+54",
+    "iso_code": "AR"
+  },
+  {
+    "name_en_full": "Republic of Armenia",
+    "name_en_short": "Armenia",
+    "name_ru_full": "Республика Армения",
+    "name_ru_short": "Армения",
+    "dial_code": "+374",
+    "iso_code": "AM"
+  },
+  {
+    "name_en_full": "Aruba",
+    "name_en_short": "Aruba",
+    "name_ru_full": "Аруба",
+    "name_ru_short": "Аруба",
+    "dial_code": "+297",
+    "iso_code": "AW"
+  },
+  {
+    "name_en_full": "Commonwealth of Australia",
+    "name_en_short": "Australia",
+    "name_ru_full": "Австралийский Союз",
+    "name_ru_short": "Австралия",
+    "dial_code": "+61",
+    "iso_code": "AU"
+  },
+  {
+    "name_en_full": "Republic of Austria",
+    "name_en_short": "Austria",
+    "name_ru_full": "Австрийская Республика",
+    "name_ru_short": "Австрия",
+    "dial_code": "+43",
+    "iso_code": "AT"
+  },
+  {
+    "name_en_full": "Azerbaijani Republic",
+    "name_en_short": "Azerbaijan",
+    "name_ru_full": "Азербайджанская Республика",
+    "name_ru_short": "Азербайджан",
+    "dial_code": "+994",
+    "iso_code": "AZ"
+  },
+  {
+    "name_en_full": "Commonwealth of The Bahamas",
+    "name_en_short": "Bahamas",
+    "name_ru_full": "Содружество Багамских Островов",
+    "name_ru_short": "Багамские Острова",
+    "dial_code": "+1 242",
+    "iso_code": "BS"
+  },
+  {
+    "name_en_full": "Kingdom of Bahrain",
+    "name_en_short": "Bahrain",
+    "name_ru_full": "Королевство Бахрейн",
+    "name_ru_short": "Бахрейн",
+    "dial_code": "+973",
+    "iso_code": "BH"
+  },
+  {
+    "name_en_full": "People's Republic of Bangladesh",
+    "name_en_short": "Bangladesh",
+    "name_ru_full": "Народная Республика Бангладеш",
+    "name_ru_short": "Бангладеш",
+    "dial_code": "+880",
+    "iso_code": "BD"
+  },
+  {
+    "name_en_full": "Barbados",
+    "name_en_short": "Barbados",
+    "name_ru_full": "Барбадос",
+    "name_ru_short": "Барбадос",
+    "dial_code": "+1 246",
+    "iso_code": "BB"
+  },
+  {
+    "name_en_full": "Republic of Belarus",
+    "name_en_short": "Belarus",
+    "name_ru_full": "Республика Беларусь",
+    "name_ru_short": "Беларусь",
+    "dial_code": "+375",
+    "iso_code": "BY"
+  },
+  {
+    "name_en_full": "Kingdom of Belgium",
+    "name_en_short": "Belgium",
+    "name_ru_full": "Королевство Бельгия",
+    "name_ru_short": "Бельгия",
+    "dial_code": "+32",
+    "iso_code": "BE"
+  },
+  {
+    "name_en_full": "Belize",
+    "name_en_short": "Belize",
+    "name_ru_full": "Белиз",
+    "name_ru_short": "Белиз",
+    "dial_code": "+501",
+    "iso_code": "BZ"
+  },
+  {
+    "name_en_full": "Republic of Benin",
+    "name_en_short": "Benin",
+    "name_ru_full": "Республика Бенин",
+    "name_ru_short": "Бенин",
+    "dial_code": "+229",
+    "iso_code": "BJ"
+  },
+  {
+    "name_en_full": "Bermuda",
+    "name_en_short": "Bermuda",
+    "name_ru_full": "Бермудские Острова",
+    "name_ru_short": "Бермудские Острова",
+    "dial_code": "+1 441",
+    "iso_code": "BM"
+  },
+  {
+    "name_en_full": "Kingdom of Bhutan",
+    "name_en_short": "Bhutan",
+    "name_ru_full": "Королевство Бутан",
+    "name_ru_short": "Бутан",
+    "dial_code": "+975",
+    "iso_code": "BT"
+  },
+  {
+    "name_en_full": "Plurinational State of Bolivia",
+    "name_en_short": "Bolivia",
+    "name_ru_full": "Многонациональное Государство Боливия",
+    "name_ru_short": "Боливия",
+    "dial_code": "+591",
+    "iso_code": "BO"
+  },
+  {
+    "name_en_full": "Republic of Bosnia and Herzegovina",
+    "name_en_short": "Bosnia and Herzegovina",
+    "name_ru_full": "Республика Босния и Герцеговина",
+    "name_ru_short": "Босния и Герцеговина",
+    "dial_code": "+387",
+    "iso_code": "BA"
+  },
+  {
+    "name_en_full": "Republic of Botswana",
+    "name_en_short": "Botswana",
+    "name_ru_full": "Республика Ботсвана",
+    "name_ru_short": "Ботсвана",
+    "dial_code": "+267",
+    "iso_code": "BW"
+  },
+  {
+    "name_en_full": "Federative Republic of Brazil",
+    "name_en_short": "Brazil",
+    "name_ru_full": "Федеративная Республика Бразилия",
+    "name_ru_short": "Бразилия",
+    "dial_code": "+55",
+    "iso_code": "BR"
+  },
+  {
+    "name_en_full": "British Indian Ocean Territory",
+    "name_en_short": "British Indian Ocean Territory",
+    "name_ru_full": "Британская территория в Индийском океане ",
+    "name_ru_short": "Британская территория в Индийском океане ",
+    "dial_code": "+246",
+    "iso_code": "IO"
+  },
+  {
+    "name_en_full": "Brunei Darussalam",
+    "name_en_short": "Brunei",
+    "name_ru_full": "Бруней-Даруссалам",
+    "name_ru_short": "Бруней",
+    "dial_code": "+673",
+    "iso_code": "BN"
+  },
+  {
+    "name_en_full": "Republic of Bulgaria",
+    "name_en_short": "Bulgaria",
+    "name_ru_full": "Республика Болгария",
+    "name_ru_short": "Болгария",
+    "dial_code": "+359",
+    "iso_code": "BG"
+  },
+  {
+    "name_en_full": "Burkina Faso",
+    "name_en_short": "Burkina Faso",
+    "name_ru_full": "Буркина-Фасо",
+    "name_ru_short": "Буркина-Фасо",
+    "dial_code": "+226",
+    "iso_code": "BF"
+  },
+  {
+    "name_en_full": "Republic of Burundi",
+    "name_en_short": "Burundi",
+    "name_ru_full": "Республика Бурунди",
+    "name_ru_short": "Бурунди",
+    "dial_code": "+257",
+    "iso_code": "BI"
+  },
+  {
+    "name_en_full": "Kingdom of Cambodia",
+    "name_en_short": "Cambodia",
+    "name_ru_full": "Королевство Камбоджа",
+    "name_ru_short": "Камбоджа",
+    "dial_code": "+855",
+    "iso_code": "KH"
+  },
+  {
+    "name_en_full": "Republic of Cameroon",
+    "name_en_short": "Cameroon",
+    "name_ru_full": "Республика Камерун",
+    "name_ru_short": "Камерун",
+    "dial_code": "+237",
+    "iso_code": "CM"
+  },
+  {
+    "name_en_full": "Canada",
+    "name_en_short": "Canada",
+    "name_ru_full": "Канада",
+    "name_ru_short": "Канада",
+    "dial_code": "+1",
+    "iso_code": "CA"
+  },
+  {
+    "name_en_full": "Republic of Cabo Verde",
+    "name_en_short": "Cape Verde",
+    "name_ru_full": "Республика Кабо-Верде",
+    "name_ru_short": "Кабо-Верде",
+    "dial_code": "+238",
+    "iso_code": "CV"
+  },
+  {
+    "name_en_full": "Cayman Islands",
+    "name_en_short": "Cayman Islands",
+    "name_ru_full": "Острова Кайман",
+    "name_ru_short": "Острова Кайман",
+    "dial_code": "+ 345",
+    "iso_code": "KY"
+  },
+  {
+    "name_en_full": "Central African Republic",
+    "name_en_short": "Central African Republic",
+    "name_ru_full": "Центральноафриканская Республика",
+    "name_ru_short": "Центральноафриканская Республика",
+    "dial_code": "+236",
+    "iso_code": "CF"
+  },
+  {
+    "name_en_full": "Republic of Chad",
+    "name_en_short": "Chad",
+    "name_ru_full": "Республика Чад",
+    "name_ru_short": "Чад",
+    "dial_code": "+235",
+    "iso_code": "TD"
+  },
+  {
+    "name_en_full": "Republic of Chile",
+    "name_en_short": "Chile",
+    "name_ru_full": "Республика Чили",
+    "name_ru_short": "Чили",
+    "dial_code": "+56",
+    "iso_code": "CL"
+  },
+  {
+    "name_en_full": "People's Republic of China",
+    "name_en_short": "China",
+    "name_ru_full": "Китайская Народная Республика",
+    "name_ru_short": "Китай",
+    "dial_code": "+86",
+    "iso_code": "CN"
+  },
+  {
+    "name_en_full": "Territory of Christmas Island",
+    "name_en_short": "Christmas Island",
+    "name_ru_full": "Остров Рождества",
+    "name_ru_short": "Остров Рождества",
+    "dial_code": "+61",
+    "iso_code": "CX"
+  },
+  {
+    "name_en_full": "Cocos (Keeling) Islands",
+    "name_en_short": "Cocos (Keeling) Islands",
+    "name_ru_full": "Кокосовые острова (Килинг)",
+    "name_ru_short": "Кокосовые острова (Килинг)",
+    "dial_code": "+61",
+    "iso_code": "CC"
+  },
+  {
+    "name_en_full": "Republic of Colombia",
+    "name_en_short": "Colombia",
+    "name_ru_full": "Республика Колумбия",
+    "name_ru_short": "Колумбия",
+    "dial_code": "+57",
+    "iso_code": "CO"
+  },
+  {
+    "name_en_full": "Union of the Comoros",
+    "name_en_short": "Comoros",
+    "name_ru_full": "Союз Коморских Островов",
+    "name_ru_short": "Коморы",
+    "dial_code": "+269",
+    "iso_code": "KM"
+  },
+  {
+    "name_en_full": "Democratic Republic of the Congo",
+    "name_en_short": "Congo",
+    "name_ru_full": "Демократическая Республика Конго",
+    "name_ru_short": "Конго",
+    "dial_code": "+242",
+    "iso_code": "CG"
+  },
+  {
+    "name_en_full": "The Democratic Republic of the Congo",
+    "name_en_short": "Congo",
+    "name_ru_full": "Демократическая Республика Конго",
+    "name_ru_short": "Конго",
+    "dial_code": "+243",
+    "iso_code": "CD"
+  },
+  {
+    "name_en_full": "Cook Islands",
+    "name_en_short": "Cook Islands",
+    "name_ru_full": "Острова Кука",
+    "name_ru_short": "Острова Кука",
+    "dial_code": "+682",
+    "iso_code": "CK"
+  },
+  {
+    "name_en_full": "Republic of Costa Rica",
+    "name_en_short": "Costa Rica",
+    "name_ru_full": "Коста-Рика",
+    "name_ru_short": "Республика Коста-Рика",
+    "dial_code": "+506",
+    "iso_code": "CR"
+  },
+  {
+    "name_en_full": "Republic of Côte d'Ivoire",
+    "name_en_short": "Cote d'Ivoire",
+    "name_ru_full": "Республика Кот-д'Ивуар",
+    "name_ru_short": "Кот-д'Ивуар",
+    "dial_code": "+225",
+    "iso_code": "CI"
+  },
+  {
+    "name_en_full": "Republic of Croatia",
+    "name_en_short": "Croatia",
+    "name_ru_full": "Республика Хорватия",
+    "name_ru_short": "Хорватия",
+    "dial_code": "+385",
+    "iso_code": "HR"
+  },
+  {
+    "name_en_full": "Republic of Cuba",
+    "name_en_short": "Cuba",
+    "name_ru_full": "Республика Куба",
+    "name_ru_short": "Куба",
+    "dial_code": "+53",
+    "iso_code": "CU"
+  },
+  {
+    "name_en_full": "Republic of Cyprus",
+    "name_en_short": "Cyprus",
+    "name_ru_full": "Республика Кипр",
+    "name_ru_short": "Кипр",
+    "dial_code": "+357",
+    "iso_code": "CY"
+  },
+  {
+    "name_en_full": "Czech Republic",
+    "name_en_short": "Czech Republic",
+    "name_ru_full": "Чешская Республика",
+    "name_ru_short": "Чехия",
+    "dial_code": "+420",
+    "iso_code": "CZ"
+  },
+  {
+    "name_en_full": "Kingdom of Denmark",
+    "name_en_short": "Denmark",
+    "name_ru_full": "Королевство Дания",
+    "name_ru_short": "Дания",
+    "dial_code": "+45",
+    "iso_code": "DK"
+  },
+  {
+    "name_en_full": "Republic of Djibouti",
+    "name_en_short": "Djibouti",
+    "name_ru_full": "Республика Джибути",
+    "name_ru_short": "Джибути",
+    "dial_code": "+253",
+    "iso_code": "DJ"
+  },
+  {
+    "name_en_full": "Commonwealth of Dominica",
+    "name_en_short": "Dominica",
+    "name_ru_full": "Содружество Доминики",
+    "name_ru_short": "Доминика",
+    "dial_code": "+1 767",
+    "iso_code": "DM"
+  },
+  {
+    "name_en_full": "Dominican Republic",
+    "name_en_short": "Dominican Republic",
+    "name_ru_full": "Доминиканская Республика",
+    "name_ru_short": "Доминиканская Республика",
+    "dial_code": "+1 849",
+    "iso_code": "DO"
+  },
+  {
+    "name_en_full": "Republic of Ecuador",
+    "name_en_short": "Ecuador",
+    "name_ru_full": "Республика Эквадор",
+    "name_ru_short": "Эквадор",
+    "dial_code": "+593",
+    "iso_code": "EC"
+  },
+  {
+    "name_en_full": "Arab Republic of Egypt",
+    "name_en_short": "Egypt",
+    "name_ru_full": "Арабская Республика Египет",
+    "name_ru_short": "Египет",
+    "dial_code": "+20",
+    "iso_code": "EG"
+  },
+  {
+    "name_en_full": "Republic of El Salvador",
+    "name_en_short": "El Salvador",
+    "name_ru_full": "Республика Эль-Сальвадор",
+    "name_ru_short": "Сальвадор",
+    "dial_code": "+503",
+    "iso_code": "SV"
+  },
+  {
+    "name_en_full": "Republic of Equatorial Guinea",
+    "name_en_short": "Equatorial Guinea",
+    "name_ru_full": "Экваториальная Гвинея",
+    "name_ru_short": "Республика Экваториальная Гвинея",
+    "dial_code": "+240",
+    "iso_code": "GQ"
+  },
+  {
+    "name_en_full": "Eritrea",
+    "name_en_short": "Eritrea",
+    "name_ru_full": "Эритрея",
+    "name_ru_short": "Эритрея",
+    "dial_code": "+291",
+    "iso_code": "ER"
+  },
+  {
+    "name_en_full": "Republic of Estonia",
+    "name_en_short": "Estonia",
+    "name_ru_full": "Эстонская Республика",
+    "name_ru_short": "Эстония",
+    "dial_code": "+372",
+    "iso_code": "EE"
+  },
+  {
+    "name_en_full": "Federal Democratic Republic of Ethiopia",
+    "name_en_short": "Ethiopia",
+    "name_ru_full": "Федеративная Демократическая Республика Эфиопия",
+    "name_ru_short": "Эфиопия",
+    "dial_code": "+251",
+    "iso_code": "ET"
+  },
+  {
+    "name_en_full": "Falkland Islands (Malvinas)",
+    "name_en_short": "Falkland Islands (Malvinas)",
+    "name_ru_full": "Фолклендские (Мальвинские) острова",
+    "name_ru_short": "Фолклендские (Мальвинские) острова",
+    "dial_code": "+500",
+    "iso_code": "FK"
+  },
+  {
+    "name_en_full": "Faroe Islands",
+    "name_en_short": "Faeroes",
+    "name_ru_full": "Фарерские острова",
+    "name_ru_short": "Фареры",
+    "dial_code": "+298",
+    "iso_code": "FO"
+  },
+  {
+    "name_en_full": "Republic of Fiji",
+    "name_en_short": "Fiji",
+    "name_ru_full": "Республика Фиджи",
+    "name_ru_short": "Фиджи",
+    "dial_code": "+679",
+    "iso_code": "FJ"
+  },
+  {
+    "name_en_full": "Republic of Finland",
+    "name_en_short": "Finland",
+    "name_ru_full": "Финляндская Республика",
+    "name_ru_short": "Финляндия",
+    "dial_code": "+358",
+    "iso_code": "FI"
+  },
+  {
+    "name_en_full": "French Republic",
+    "name_en_short": "France",
+    "name_ru_full": "Французская республика",
+    "name_ru_short": "Франция",
+    "dial_code": "+33",
+    "iso_code": "FR"
+  },
+  {
+    "name_en_full": "French Guiana",
+    "name_en_short": "Guiana",
+    "name_ru_full": "Французская Гвиана",
+    "name_ru_short": "Гвиана",
+    "dial_code": "+594",
+    "iso_code": "GF"
+  },
+  {
+    "name_en_full": "French Polynesia",
+    "name_en_short": "French Polynesia",
+    "name_ru_full": "Французская Полинезия",
+    "name_ru_short": "Французская Полинезия",
+    "dial_code": "+689",
+    "iso_code": "PF"
+  },
+  {
+    "name_en_full": "Gabonese Republic",
+    "name_en_short": "Gabon",
+    "name_ru_full": "Габонская Республика",
+    "name_ru_short": "Габон",
+    "dial_code": "+241",
+    "iso_code": "GA"
+  },
+  {
+    "name_en_full": "Republic of the Gambia",
+    "name_en_short": "Gambia",
+    "name_ru_full": "Республика Гамбия",
+    "name_ru_short": "Гамбия",
+    "dial_code": "+220",
+    "iso_code": "GM"
+  },
+  {
+    "name_en_full": "Georgia",
+    "name_en_short": "Georgia",
+    "name_ru_full": "Грузия",
+    "name_ru_short": "Грузия",
+    "dial_code": "+995",
+    "iso_code": "GE"
+  },
+  {
+    "name_en_full": "Federal Republic of Germany",
+    "name_en_short": "Germany",
+    "name_ru_full": "Федеративная Республика Германия",
+    "name_ru_short": "Германия",
+    "dial_code": "+49",
+    "iso_code": "DE"
+  },
+  {
+    "name_en_full": "Republic of Ghana",
+    "name_en_short": "Ghana",
+    "name_ru_full": "Республика Гана",
+    "name_ru_short": "Гана",
+    "dial_code": "+233",
+    "iso_code": "GH"
+  },
+  {
+    "name_en_full": "Gibraltar",
+    "name_en_short": "Gibraltar",
+    "name_ru_full": "Гибралтар",
+    "name_ru_short": "Гибралтар",
+    "dial_code": "+350",
+    "iso_code": "GI"
+  },
+  {
+    "name_en_full": "Hellenic Republic",
+    "name_en_short": "Greece",
+    "name_ru_full": "Греческая Республика",
+    "name_ru_short": "Греция",
+    "dial_code": "+30",
+    "iso_code": "GR"
+  },
+  {
+    "name_en_full": "Greenland",
+    "name_en_short": "Greenland",
+    "name_ru_full": "Гренландия",
+    "name_ru_short": "Гренландия",
+    "dial_code": "+299",
+    "iso_code": "GL"
+  },
+  {
+    "name_en_full": "Grenada",
+    "name_en_short": "Grenada",
+    "name_ru_full": "Гренада",
+    "name_ru_short": "Гренада",
+    "dial_code": "+1 473",
+    "iso_code": "GD"
+  },
+  {
+    "name_en_full": "Guadeloupe",
+    "name_en_short": "Guadeloupe",
+    "name_ru_full": "Гваделупа",
+    "name_ru_short": "Гваделупа",
+    "dial_code": "+590",
+    "iso_code": "GP"
+  },
+  {
+    "name_en_full": "Guam",
+    "name_en_short": "Guam",
+    "name_ru_full": "Гуам",
+    "name_ru_short": "Гуам",
+    "dial_code": "+1 671",
+    "iso_code": "GU"
+  },
+  {
+    "name_en_full": "Republic of Guatemala",
+    "name_en_short": "Guatemala",
+    "name_ru_full": "Республика Гватемала",
+    "name_ru_short": "Гватемала",
+    "dial_code": "+502",
+    "iso_code": "GT"
+  },
+  {
+    "name_en_full": "Guernsey",
+    "name_en_short": "Guernsey",
+    "name_ru_full": "Гернси",
+    "name_ru_short": "Гернси",
+    "dial_code": "+44",
+    "iso_code": "GG"
+  },
+  {
+    "name_en_full": "Republic of Guinea",
+    "name_en_short": "Guinea",
+    "name_ru_full": "Гвинейская Республика",
+    "name_ru_short": "Гвинея",
+    "dial_code": "+224",
+    "iso_code": "GN"
+  },
+  {
+    "name_en_full": "Republic of Guinea-Bissau",
+    "name_en_short": "Guinea-Bissau",
+    "name_ru_full": "Республика Гвинея-Бисау",
+    "name_ru_short": "Гвинея-Бисау",
+    "dial_code": "+245",
+    "iso_code": "GW"
+  },
+  {
+    "name_en_full": "Co‑operative Republic of Guyana",
+    "name_en_short": "Guyana",
+    "name_ru_full": "Кооперативная Республика Гайана",
+    "name_ru_short": "Гайана",
+    "dial_code": "+595",
+    "iso_code": "GY"
+  },
+  {
+    "name_en_full": "Republic of Haiti",
+    "name_en_short": "Haiti",
+    "name_ru_full": "Республика Гаити",
+    "name_ru_short": "Гаити",
+    "dial_code": "+509",
+    "iso_code": "HT"
+  },
+  {
+    "name_en_full": "Holy See (Vatican City State)",
+    "name_en_short": "Vatican",
+    "name_ru_full": "Папский Престол (Государство-город Ватикан)",
+    "name_ru_short": "Ватикан",
+    "dial_code": "+379",
+    "iso_code": "VA"
+  },
+  {
+    "name_en_full": "Republic of Honduras",
+    "name_en_short": "Honduras",
+    "name_ru_full": "Республика Гондурас",
+    "name_ru_short": "Гондурас",
+    "dial_code": "+504",
+    "iso_code": "HN"
+  },
+  {
+    "name_en_full": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "name_en_short": "Hong Kong",
+    "name_ru_full": "Специальный административный район Гонконг (Сянган)",
+    "name_ru_short": "Гонконг",
+    "dial_code": "+852",
+    "iso_code": "HK"
+  },
+  {
+    "name_en_full": "Hungary",
+    "name_en_short": "Hungary",
+    "name_ru_full": "Венгрия",
+    "name_ru_short": "Венгрия",
+    "dial_code": "+36",
+    "iso_code": "HU"
+  },
+  {
+    "name_en_full": "Republic of Iceland",
+    "name_en_short": "Iceland",
+    "name_ru_full": "Республика Исландия",
+    "name_ru_short": "Исландия",
+    "dial_code": "+354",
+    "iso_code": "IS"
+  },
+  {
+    "name_en_full": "Republic of India",
+    "name_en_short": "India",
+    "name_ru_full": "Республика Индия",
+    "name_ru_short": "Индия",
+    "dial_code": "+91",
+    "iso_code": "IN"
+  },
+  {
+    "name_en_full": "Republic of Indonesia",
+    "name_en_short": "Indonesia",
+    "name_ru_full": "Республика Индонезия",
+    "name_ru_short": "Индонезия",
+    "dial_code": "+62",
+    "iso_code": "ID"
+  },
+  {
+    "name_en_full": "Islamic Republic of Iran",
+    "name_en_short": "Iran",
+    "name_ru_full": "Исламская Республика Иран",
+    "name_ru_short": "Иран",
+    "dial_code": "+98",
+    "iso_code": "IR"
+  },
+  {
+    "name_en_full": "Republic of Iraq",
+    "name_en_short": "Iraq",
+    "name_ru_full": "Республика Ирак",
+    "name_ru_short": "Ирак",
+    "dial_code": "+964",
+    "iso_code": "IQ"
+  },
+  {
+    "name_en_full": "Republic of Ireland",
+    "name_en_short": "Ireland",
+    "name_ru_full": "Республика Ирландия",
+    "name_ru_short": "Ирландия",
+    "dial_code": "+353",
+    "iso_code": "IE"
+  },
+  {
+    "name_en_full": "Isle of Man",
+    "name_en_short": "Isle of Man",
+    "name_ru_full": "Остров Мэн",
+    "name_ru_short": "Остров Мэн",
+    "dial_code": "+44",
+    "iso_code": "IM"
+  },
+  {
+    "name_en_full": "Israel",
+    "name_en_short": "Israel",
+    "name_ru_full": "Израиль",
+    "name_ru_short": "Израиль",
+    "dial_code": "+972",
+    "iso_code": "IL"
+  },
+  {
+    "name_en_full": "Italian Republic",
+    "name_en_short": "Italy",
+    "name_ru_full": "Итальянская Республика",
+    "name_ru_short": "Италия",
+    "dial_code": "+39",
+    "iso_code": "IT"
+  },
+  {
+    "name_en_full": "Jamaica",
+    "name_en_short": "Jamaica",
+    "name_ru_full": "Ямайка",
+    "name_ru_short": "Ямайка",
+    "dial_code": "+1 876",
+    "iso_code": "JM"
+  },
+  {
+    "name_en_full": "Japan",
+    "name_en_short": "Japan",
+    "name_ru_full": "Япония",
+    "name_ru_short": "Япония",
+    "dial_code": "+81",
+    "iso_code": "JP"
+  },
+  {
+    "name_en_full": "Bailiwick of Jersey",
+    "name_en_short": "Jersey",
+    "name_ru_full": "Бейливик Джерси",
+    "name_ru_short": "Джерси",
+    "dial_code": "+44",
+    "iso_code": "JE"
+  },
+  {
+    "name_en_full": "Hashemite Kingdom of Jordan",
+    "name_en_short": "Jordan",
+    "name_ru_full": "Иорданское Хашимитское Королевство",
+    "name_ru_short": "Иордания",
+    "dial_code": "+962",
+    "iso_code": "JO"
+  },
+  {
+    "name_en_full": "Republic of Kazakhstan",
+    "name_en_short": "Kazakhstan",
+    "name_ru_full": "Республика Казахстан",
+    "name_ru_short": "Казахстан",
+    "dial_code": "+7",
+    "iso_code": "KZ"
+  },
+  {
+    "name_en_full": "Republic of Kenya",
+    "name_en_short": "Kenya",
+    "name_ru_full": "Республика Кения",
+    "name_ru_short": "Кения",
+    "dial_code": "+254",
+    "iso_code": "KE"
+  },
+  {
+    "name_en_short": "Republic of Kiribati",
+    "name_en_full": "Kiribati",
+    "name_ru_full": "Республика Кирибати",
+    "name_ru_short": "Кирибати",
+    "dial_code": "+686",
+    "iso_code": "KI"
+  },
+  {
+    "name_en_full": "Democratic People's Republic of Korea",
+    "name_en_short": "DPRK (North Korea)",
+    "name_ru_full": "Корейская Народно-Демократическая Республика",
+    "name_ru_short": "КНДР (Северная Корея)",
+    "dial_code": "+850",
+    "iso_code": "KP"
+  },
+  {
+    "name_en_full": "Republic of Korea (ROK)",
+    "name_en_short": "South Korea",
+    "name_ru_full": "Республика Корея",
+    "name_ru_short": "Южная Корея",
+    "dial_code": "+82",
+    "iso_code": "KR"
+  },
+  {
+    "name_en_full": "Republic of Kosovo",
+    "name_en_short": "Kosovo",
+    "name_ru_full": "Республика Косово",
+    "name_ru_short": "Косово",
+    "dial_code": "+383",
+    "iso_code": "XK"
+  },
+  {
+    "name_en_full": "Kuwait",
+    "name_en_short": "Kuwait",
+    "name_ru_full": "Кувейт",
+    "name_ru_short": "Кувейт",
+    "dial_code": "+965",
+    "iso_code": "KW"
+  },
+  {
+    "name_en_full": "Kyrgyz Republic",
+    "name_en_short": "Kyrgyzstan",
+    "name_ru_full": "Киргизская Республика",
+    "name_ru_short": "Киргизия",
+    "dial_code": "+996",
+    "iso_code": "KG"
+  },
+  {
+    "name_en_full": "Lao People's Democratic Republic",
+    "name_en_short": "Laos",
+    "name_ru_full": "Лаосская Народно-Демократическая Республика",
+    "name_ru_short": "Лаос",
+    "dial_code": "+856",
+    "iso_code": "LA"
+  },
+  {
+    "name_en_full": "Republic of Latvia",
+    "name_en_short": "Latvia",
+    "name_ru_short": "Латвийская Республика",
+    "name_ru_full": "Латвия",
+    "dial_code": "+371",
+    "iso_code": "LV"
+  },
+  {
+    "name_en_full": "Republic of Lebanon",
+    "name_en_short": "Lebanon",
+    "name_ru_full": "Ливанская Республика",
+    "name_ru_short": "Ливан",
+    "dial_code": "+961",
+    "iso_code": "LB"
+  },
+  {
+    "name_en_full": "Kingdom of Lesotho",
+    "name_en_short": "Lesotho",
+    "name_ru_full": "Лесото",
+    "name_ru_short": "Королевство Лесото",
+    "dial_code": "+266",
+    "iso_code": "LS"
+  },
+  {
+    "name_en_full": "Republic of Liberia",
+    "name_en_short": "Liberia",
+    "name_ru_full": "Республика Либерия",
+    "name_ru_short": "Либерия",
+    "dial_code": "+231",
+    "iso_code": "LR"
+  },
+  {
+    "name_en_full": "Libya",
+    "name_en_short": "Libya",
+    "name_ru_full": "Ливия",
+    "name_ru_short": "Ливия",
+    "dial_code": "+218",
+    "iso_code": "LY"
+  },
+  {
+    "name_en_full": "Principality of Liechtenstein",
+    "name_en_short": "Liechtenstein",
+    "name_ru_full": "Княжество Лихтенштейн",
+    "name_ru_short": "Лихтенштейн",
+    "dial_code": "+423",
+    "iso_code": "LI"
+  },
+  {
+    "name_en_full": "Republic of Lithuania",
+    "name_en_short": "Lithuania",
+    "name_ru_full": "Литовская Республика",
+    "name_ru_short": "Литва",
+    "dial_code": "+370",
+    "iso_code": "LT"
+  },
+  {
+    "name_en_full": "Grand Duchy of Luxembourg",
+    "name_en_short": "Luxembourg",
+    "name_ru_full": "Великое Герцогство Люксембург",
+    "name_ru_short": "Люксембург",
+    "dial_code": "+352",
+    "iso_code": "LU"
+  },
+  {
+    "name_en_full": "Macao Special Administrative Region of the People's Republic of China",
+    "name_en_short": "Macao",
+    "name_ru_full": "Специальный административный район Макао (Аомынь)",
+    "name_ru_short": "Макао",
+    "dial_code": "+853",
+    "iso_code": "MO"
+  },
+  {
+    "name_en_full": "Republic of North Macedonia",
+    "name_en_short": "North Macedonia",
+    "name_ru_full": "Республика Северная Македония",
+    "name_ru_short": "Северная Македония",
+    "dial_code": "+389",
+    "iso_code": "MK"
+  },
+  {
+    "name_en_full": "Republic of Madagascar",
+    "name_en_short": "Madagascar",
+    "name_ru_full": "Республика Мадагаскар",
+    "name_ru_short": "Мадагаскар",
+    "dial_code": "+261",
+    "iso_code": "MG"
+  },
+  {
+    "name_en_full": "Republic of Malawi",
+    "name_en_short": "Malawi",
+    "name_ru_full": "Республика Малави",
+    "name_ru_short": "Малави",
+    "dial_code": "+265",
+    "iso_code": "MW"
+  },
+  {
+    "name_en_full": "Federation of Malaya",
+    "name_en_short": "Malaysia",
+    "name_ru_full": "Малайская Федерация",
+    "name_ru_short": "Малайзия",
+    "dial_code": "+60",
+    "iso_code": "MY"
+  },
+  {
+    "name_en_full": "Republic of Maldives",
+    "name_en_short": "Maldives",
+    "name_ru_full": "Мальдивская Республика",
+    "name_ru_short": "Мальдивы",
+    "dial_code": "+960",
+    "iso_code": "MV"
+  },
+  {
+    "name_en_full": "Republic of Mali",
+    "name_en_short": "Mali",
+    "name_ru_full": "Республика Мали",
+    "name_ru_short": "Мали",
+    "dial_code": "+223",
+    "iso_code": "ML"
+  },
+  {
+    "name_en_full": "Republic of Malta",
+    "name_en_short": "Malta",
+    "name_ru_full": "Республика Мальта",
+    "name_ru_short": "Мальта",
+    "dial_code": "+356",
+    "iso_code": "MT"
+  },
+  {
+    "name_en_full": "Republic of the Marshall Islands",
+    "name_en_short": "Marshall Islands",
+    "name_ru_full": "Республика Маршалловы Острова",
+    "name_ru_short": "Маршалловы Острова",
+    "dial_code": "+692",
+    "iso_code": "MH"
+  },
+  {
+    "name_en_full": "Martinique",
+    "name_en_short": "Martinique",
+    "name_ru_full": "Мартиника",
+    "name_ru_short": "Мартиника",
+    "dial_code": "+596",
+    "iso_code": "MQ"
+  },
+  {
+    "name_en_full": "Islamic Republic of Mauritania",
+    "name_en_short": "Mauritania",
+    "name_ru_full": "Исламская Республика Мавритания",
+    "name_ru_short": "Мавритания",
+    "dial_code": "+222",
+    "iso_code": "MR"
+  },
+  {
+    "name_en_full": "Republic of Mauritius",
+    "name_en_short": "Mauritius",
+    "name_ru_full": "Республика Маврикий",
+    "name_ru_short": "Маврикий",
+    "dial_code": "+230",
+    "iso_code": "MU"
+  },
+  {
+    "name_en_full": "Mayotte",
+    "name_en_short": "Mayotte",
+    "name_ru_full": "Майотта",
+    "name_ru_short": "Майотта",
+    "dial_code": "+262",
+    "iso_code": "YT"
+  },
+  {
+    "name_en_full": "United Mexican States",
+    "name_en_short": "Mexico",
+    "name_ru_full": "Мексиканские Соединённые Штаты",
+    "name_ru_short": "Мексика",
+    "dial_code": "+52",
+    "iso_code": "MX"
+  },
+  {
+    "name_en_full": "Federated States of Micronesia",
+    "name_en_short": "Micronesia",
+    "name_ru_full": "Федеративные Штаты Микронезии",
+    "name_ru_short": "Микронезия",
+    "dial_code": "+691",
+    "iso_code": "FM"
+  },
+  {
+    "name_en_full": "Republic of Moldova",
+    "name_en_short": "Moldova",
+    "name_ru_full": "Республика Молдова",
+    "name_ru_short": "Молдавия",
+    "dial_code": "+373",
+    "iso_code": "MD"
+  },
+  {
+    "name_en_full": "Principality of Monaco",
+    "name_en_short": "Monaco",
+    "name_ru_full": "Княжество Монако",
+    "name_ru_short": "Монако",
+    "dial_code": "+377",
+    "iso_code": "MC"
+  },
+  {
+    "name_en_full": "Mongolia",
+    "name_en_short": "Mongolia",
+    "name_ru_full": "Монголия",
+    "name_ru_short": "Монголия",
+    "dial_code": "+976",
+    "iso_code": "MN"
+  },
+  {
+    "name_en_full": "Republic of Montenegro",
+    "name_en_short": "Montenegro",
+    "name_ru_full": "Республика Черногория",
+    "name_ru_short": "Черногория",
+    "dial_code": "+382",
+    "iso_code": "ME"
+  },
+  {
+    "name_en_full": "Montserrat",
+    "name_en_short": "Montserrat",
+    "name_ru_full": "Монтсеррат",
+    "name_ru_short": "Монтсеррат",
+    "dial_code": "+1664",
+    "iso_code": "MS"
+  },
+  {
+    "name_en_full": "Kingdom of Morocco",
+    "name_en_short": "Morocco",
+    "name_ru_full": "Королевство Марокко",
+    "name_ru_short": "Марокко",
+    "dial_code": "+212",
+    "iso_code": "MA"
+  },
+  {
+    "name_en_full": "Republic of Mozambique",
+    "name_en_short": "Mozambique",
+    "name_ru_full": "Республика Мозамбик",
+    "name_ru_short": "Мозамбик",
+    "dial_code": "+258",
+    "iso_code": "MZ"
+  },
+  {
+    "name_en_full": "Republic of the Union of Myanmar",
+    "name_en_short": "Myanmar",
+    "name_ru_full": "Республика Союз Мьянма",
+    "name_ru_short": "Мьянма",
+    "dial_code": "+95",
+    "iso_code": "MM"
+  },
+  {
+    "name_en_full": "Republic of Namibia",
+    "name_en_short": "Namibia",
+    "name_ru_full": "Республика Намибия",
+    "name_ru_short": "Намибия",
+    "dial_code": "+264",
+    "iso_code": "NA"
+  },
+  {
+    "name_en_full": "Republic of Nauru",
+    "name_en_short": "Nauru",
+    "name_ru_full": "Республика Науру",
+    "name_ru_short": "Науру",
+    "dial_code": "+674",
+    "iso_code": "NR"
+  },
+  {
+    "name_en_full": "Federal Democratic Republic of Nepal",
+    "name_en_short": "Nepal",
+    "name_ru_full": "Федеративная Демократическая Республика Непал",
+    "name_ru_short": "Непал",
+    "dial_code": "+977",
+    "iso_code": "NP"
+  },
+  {
+    "name_en_full": "Kingdom of the Netherlands",
+    "name_en_short": "Netherlands",
+    "name_ru_full": "Королевство Нидерландов.",
+    "name_ru_short": "Нидерланды",
+    "dial_code": "+31",
+    "iso_code": "NL"
+  },
+  {
+    "name_en_full": "Netherlands Antilles",
+    "name_en_short": "Netherlands Antilles",
+    "name_ru_full": "Нидерландские Антильские острова",
+    "name_ru_short": "Нидерландские Антильские острова",
+    "dial_code": "+599",
+    "iso_code": "AN"
+  },
+  {
+    "name_en_full": "New Caledonia",
+    "name_en_short": "New Caledonia",
+    "name_ru_full": "Новая Каледония",
+    "name_ru_short": "Новая Каледония",
+    "dial_code": "+687",
+    "iso_code": "NC"
+  },
+  {
+    "name_en_full": "New Zealand",
+    "name_en_short": "New Zealand",
+    "name_ru_full": "Новая Зеландия",
+    "name_ru_short": "Новая Зеландия",
+    "dial_code": "+64",
+    "iso_code": "NZ"
+  },
+  {
+    "name_en_full": "Republic of Nicaragua",
+    "name_en_short": "Nicaragua",
+    "name_ru_full": "Республика Никарагуа",
+    "name_ru_short": "Никарагуа",
+    "dial_code": "+505",
+    "iso_code": "NI"
+  },
+  {
+    "name_en_full": "Republic of Niger",
+    "name_en_short": "Niger",
+    "name_ru_full": "Республика Нигер",
+    "name_ru_short": "Нигер",
+    "dial_code": "+227",
+    "iso_code": "NE"
+  },
+  {
+    "name_en_full": "Federal Republic of Nigeria",
+    "name_en_short": "Nigeria",
+    "name_ru_full": "Федеративная Республика Нигерия",
+    "name_ru_short": "Нигерия",
+    "dial_code": "+234",
+    "iso_code": "NG"
+  },
+  {
+    "name_en_full": "Republic of Niue",
+    "name_en_short": "Niue",
+    "name_ru_full": "Ниуэ-Фекаи",
+    "name_ru_short": "Ниуэ",
+    "dial_code": "+683",
+    "iso_code": "NU"
+  },
+  {
+    "name_en_full": "Norfolk Island",
+    "name_en_short": "Norfolk Island",
+    "name_ru_full": "Остров Норфолк",
+    "name_ru_short": "Остров Норфолк",
+    "dial_code": "+672",
+    "iso_code": "NF"
+  },
+  {
+    "name_en_full": "Commonwealth of the Northern Mariana Islands",
+    "name_en_short": "Northern Mariana Islands",
+    "name_ru_full": "Содружество Северных Марианских Островов",
+    "name_ru_short": "Северные Марианские Острова",
+    "dial_code": "+1 670",
+    "iso_code": "MP"
+  },
+  {
+    "name_en_full": "Kingdom of Norway",
+    "name_en_short": "Norway",
+    "name_ru_full": "Королевство Норвегия",
+    "name_ru_short": "Норвегия",
+    "dial_code": "+47",
+    "iso_code": "NO"
+  },
+  {
+    "name_en_full": "Sultanate of Oman",
+    "name_en_short": "Oman",
+    "name_ru_full": "Султанат Оман",
+    "name_ru_short": "Оман",
+    "dial_code": "+968",
+    "iso_code": "OM"
+  },
+  {
+    "name_en_full": "Islamic Republic of Pakistan",
+    "name_en_short": "Pakistan",
+    "name_ru_full": "Исламская Республика Пакистан",
+    "name_ru_short": "Пакистан",
+    "dial_code": "+92",
+    "iso_code": "PK"
+  },
+  {
+    "name_en_full": "Republic of Palau",
+    "name_en_short": "Palau",
+    "name_ru_full": "Республика Палау",
+    "name_ru_short": "Палау",
+    "dial_code": "+680",
+    "iso_code": "PW"
+  },
+  {
+    "name_en_full": "Palestine",
+    "name_en_short": "Palestine",
+    "name_ru_full": "Палестина",
+    "name_ru_short": "Палестина",
+    "dial_code": "+970",
+    "iso_code": "PS"
+  },
+  {
+    "name_en_full": "Republic of Panama",
+    "name_en_short": "Panama",
+    "name_ru_full": "Республика Панама",
+    "name_ru_short": "Панама",
+    "dial_code": "+507",
+    "iso_code": "PA"
+  },
+  {
+    "name_en_full": "Independent State of Papua New Guinea",
+    "name_en_short": "Papua New Guinea",
+    "name_ru_full": "Независимое Государство Папуа Новая Гвинея",
+    "name_ru_short": "Папуа — Новая Гвинея",
+    "dial_code": "+675",
+    "iso_code": "PG"
+  },
+  {
+    "name_en_full": "Republic of Paraguay",
+    "name_en_short": "Paraguay",
+    "name_ru_full": "Республика Парагвай",
+    "name_ru_short": "Парагвай",
+    "dial_code": "+595",
+    "iso_code": "PY"
+  },
+  {
+    "name_en_full": "Republic of Peru",
+    "name_en_short": "Peru",
+    "name_ru_full": "Республика Перу",
+    "name_ru_short": "Перу",
+    "dial_code": "+51",
+    "iso_code": "PE"
+  },
+  {
+    "name_en_full": "Republic of the Philippines",
+    "name_en_short": "Philippines",
+    "name_ru_full": "Республика Филиппины",
+    "name_ru_short": "Филиппины",
+    "dial_code": "+63",
+    "iso_code": "PH"
+  },
+  {
+    "name_en_full": "Pitcairn Islands",
+    "name_en_short": "Pitcairn Islands",
+    "name_ru_full": "Острова Питкэрн",
+    "name_ru_short": "Острова Питкэрн",
+    "dial_code": "+872",
+    "iso_code": "PN"
+  },
+  {
+    "name_en_full": "Republic of Poland",
+    "name_en_short": "Poland",
+    "name_ru_full": "Республика Польша",
+    "name_ru_short": "Польша",
+    "dial_code": "+48",
+    "iso_code": "PL"
+  },
+  {
+    "name_en_full": "Portuguese Republic",
+    "name_en_short": "Portugal",
+    "name_ru_full": "Португальская Республика",
+    "name_ru_short": "Португалия",
+    "dial_code": "+351",
+    "iso_code": "PT"
+  },
+  {
+    "name_en_full": "Commonwealth of Puerto Rico",
+    "name_en_short": "Puerto Rico",
+    "name_ru_full": "Свободно ассоциированное государство Пуэ́рто-Ри́ко",
+    "name_ru_short": "Пуэрто-Рико",
+    "dial_code": "+1 939",
+    "iso_code": "PR"
+  },
+  {
+    "name_en_full": "Qatar",
+    "name_en_short": "Qatar",
+    "name_ru_full": "Катар",
+    "name_ru_short": "Катар",
+    "dial_code": "+974",
+    "iso_code": "QA"
+  },
+  {
+    "name_en_full": "Romania",
+    "name_en_short": "Romania",
+    "name_ru_full": "Румыния",
+    "name_ru_short": "Румыния",
+    "dial_code": "+40",
+    "iso_code": "RO"
+  },
+  {
+    "name_en_full": "Russian Federation",
+    "name_en_short": "Russia",
+    "name_ru_full": "Российская Федерация",
+    "name_ru_short": "Россия",
+    "dial_code": "+7",
+    "iso_code": "RU"
+  },
+  {
+    "name_en_full": "Republic of Rwanda",
+    "name_en_short": "Rwanda",
+    "name_ru_full": "Республика Руанда",
+    "name_ru_short": "Руанда",
+    "dial_code": "+250",
+    "iso_code": "RW"
+  },
+  {
+    "name_en_full": "Reunion",
+    "name_en_short": "Reunion",
+    "name_ru_full": "Реюньон",
+    "name_ru_short": "Реюньон",
+    "dial_code": "+262",
+    "iso_code": "RE"
+  },
+  {
+    "name_en_full": "Territorial Collectivity of Saint Barthélemy",
+    "name_en_short": "Saint Barthelemy",
+    "name_ru_full": "Коллективность Санкт -Бартельми",
+    "name_ru_short": "Сен-Бартелеми",
+    "dial_code": "+590",
+    "iso_code": "BL"
+  },
+  {
+    "name_en_full": "Saint Helena, Ascension and Tristan Da Cunha",
+    "name_en_short": "Saint Helena, Ascension and Tristan Da Cunha",
+    "name_ru_full": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+    "name_ru_short": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+    "dial_code": "+290",
+    "iso_code": "SH"
+  },
+  {
+    "name_en_full": "Federation of Saint Kitts and Nevis",
+    "name_en_short": "Saint Kitts and Nevis",
+    "name_ru_full": "Федерация Сент-Китс и Невис",
+    "name_ru_short": "Сент-Китс и Невис",
+    "dial_code": "+1 869",
+    "iso_code": "KN"
+  },
+  {
+    "name_en_full": "Saint Lucia",
+    "name_en_short": "Saint Lucia",
+    "name_ru_full": "Сент-Люсия",
+    "name_ru_short": "Сент-Люсия",
+    "dial_code": "+1 758",
+    "iso_code": "LC"
+  },
+  {
+    "name_en_full": "Saint Martin",
+    "name_en_short": "Saint Martin",
+    "name_ru_full": "Сен-Мартен",
+    "name_ru_short": "Сен-Мартен",
+    "dial_code": "+590",
+    "iso_code": "MF"
+  },
+  {
+    "name_en_full": "Territorial Collectivity of Saint-Pierre and Miquelon",
+    "name_en_short": "Saint-Pierre and Miquelon",
+    "name_ru_full": "Территориальное сообщество Сен-Пьер и Микелон",
+    "name_ru_short": "Сен-Пьер и Микелон",
+    "dial_code": "+508",
+    "iso_code": "PM"
+  },
+  {
+    "name_en_full": "Saint Vincent and the Grenadines",
+    "name_en_short": "Saint Vincent and the Grenadines",
+    "name_ru_full": "Сент-Винсент и Гренадины",
+    "name_ru_short": "Сент-Винсент и Гренадины",
+    "dial_code": "+1 784",
+    "iso_code": "VC"
+  },
+  {
+    "name_en_full": "Independent State of Samoa",
+    "name_en_short": "Samoa",
+    "name_ru_full": "Независимое государство Самоа",
+    "name_ru_short": "Самоа",
+    "dial_code": "+685",
+    "iso_code": "WS"
+  },
+  {
+    "name_en_full": "Republic of San Marino",
+    "name_en_short": "San Marino",
+    "name_ru_full": "Республика Сан-Марино",
+    "name_ru_short": "Сан-Марино",
+    "dial_code": "+378",
+    "iso_code": "SM"
+  },
+  {
+    "name_en_full": "Democratic Republic of São Tom and Principe",
+    "name_en_short": "Sao Tome and Principe",
+    "name_ru_full": "Демократическая Республика Сан-Томе и Принсипи",
+    "name_ru_short": "Сан-Томе и Принсипи",
+    "dial_code": "+239",
+    "iso_code": "ST"
+  },
+  {
+    "name_en_full": "Kingdom of Saudi Arabia",
+    "name_en_short": "Saudi Arabia",
+    "name_ru_full": "Королевство Саудовская Аравия",
+    "name_ru_short": "Саудовская Аравия",
+    "dial_code": "+966",
+    "iso_code": "SA"
+  },
+  {
+    "name_en_full": "Republic of Senegal",
+    "name_en_short": "Senegal",
+    "name_ru_full": "Республика Сенегал",
+    "name_ru_short": "Сенегал",
+    "dial_code": "+221",
+    "iso_code": "SN"
+  },
+  {
+    "name_en_full": "Republic of Serbia",
+    "name_en_short": "Serbia",
+    "name_ru_full": "Республика Сербия",
+    "name_ru_short": "Сербия",
+    "dial_code": "+381",
+    "iso_code": "RS"
+  },
+  {
+    "name_en_full": "Republic of Seychelles",
+    "name_en_short": "Seychelles",
+    "name_ru_full": "Республика Сейшельские Острова",
+    "name_ru_short": "Сейшельские Острова",
+    "dial_code": "+248",
+    "iso_code": "SC"
+  },
+  {
+    "name_en_full": "Republic of Sierra Leone",
+    "name_en_short": "Sierra Leone",
+    "name_ru_full": "Республика Сьерра-Леоне",
+    "name_ru_short": "Сьерра-Леоне",
+    "dial_code": "+232",
+    "iso_code": "SL"
+  },
+  {
+    "name_en_full": "Republic of Singapore",
+    "name_en_short": "Singapore",
+    "name_ru_full": "Республика Сингапур",
+    "name_ru_short": "Сингапур",
+    "dial_code": "+65",
+    "iso_code": "SG"
+  },
+  {
+    "name_en_full": "Slovak Republic",
+    "name_ru_full": "Словацкая Республика",
+    "dial_code": "+421",
+    "iso_code": "SK"
+  },
+  {
+    "name_en_full": "Republic of Slovenia",
+    "name_en_short": "Slovenia",
+    "name_ru_full": "Республика Словения",
+    "name_ru_short": "Словения",
+    "dial_code": "+386",
+    "iso_code": "SI"
+  },
+  {
+    "name_en_full": "Solomon Islands",
+    "name_en_short": "Solomon Islands",
+    "name_ru_full": "Соломоновы острова",
+    "name_ru_short": "Соломоновы острова",
+    "dial_code": "+677",
+    "iso_code": "SB"
+  },
+  {
+    "name_en_full": "Federal Republic of Somalia",
+    "name_en_short": "Somalia",
+    "name_ru_full": "Федеративная Республика Сомали",
+    "name_ru_short": "Сомали",
+    "dial_code": "+252",
+    "iso_code": "SO"
+  },
+  {
+    "name_en_full": "Republic of South Africa",
+    "name_en_short": "South Africa",
+    "name_ru_full": "Южно-Африканская Республика",
+    "name_ru_short": "Южная Африка (ЮАР)",
+    "dial_code": "+27",
+    "iso_code": "ZA"
+  },
+  {
+    "name_en_full": "South Georgia and the South Sandwich Islands",
+    "name_en_short": "South Georgia and the South Sandwich Islands",
+    "name_ru_full": "Южная Георгия и Южные Сандвичевы острова",
+    "name_ru_short": "Южная Георгия и Южные Сандвичевы острова",
+    "dial_code": "+500",
+    "iso_code": "GS"
+  },
+  {
+    "name_en_full": "Kingdom of Spain",
+    "name_en_short": "Spain",
+    "name_ru_full": "Королевство Испания",
+    "name_ru_short": "Испания",
+    "dial_code": "+34",
+    "iso_code": "ES"
+  },
+  {
+    "name_en_full": "Democratic Socialist Republic of Sri Lanka",
+    "name_en_short": "Sri Lanka",
+    "name_ru_full": "Демократическая Социалистическая Республика Шри-Ланка",
+    "name_ru_short": "Шри-Ланка",
+    "dial_code": "+94",
+    "iso_code": "LK"
+  },
+  {
+    "name_en_full": "Republic of the Sudan",
+    "name_en_short": "Sudan",
+    "name_ru_full": "Республика Судан",
+    "name_ru_short": "Судан",
+    "dial_code": "+249",
+    "iso_code": "SD"
+  },
+  {
+    "name_en_full": "Republic of Suriname",
+    "name_en_short": "Suriname",
+    "name_ru_full": "Республика Суринам",
+    "name_ru_short": "Суринам",
+    "dial_code": "+597",
+    "iso_code": "SR"
+  },
+  {
+    "name_en_full": "Svalbard and Jan Mayen",
+    "name_en_short": "Svalbard and Jan Mayen",
+    "name_ru_full": "Шпицберген и Ян-Майен",
+    "name_ru_short": "Шпицберген и Ян-Майен",
+    "dial_code": "+47",
+    "iso_code": "SJ"
+  },
+  {
+    "name_en_full": "Kingdom of Eswatini",
+    "name_en_short": "Eswatini",
+    "name_ru_full": "Королевство Эсватини",
+    "name_ru_short": "Эсватини",
+    "dial_code": "+268",
+    "iso_code": "SZ"
+  },
+  {
+    "name_en_full": "Kingdom of Sweden",
+    "name_en_short": "Sweden",
+    "name_ru_full": "Королевство Швеция",
+    "name_ru_short": "Швеция",
+    "dial_code": "+46",
+    "iso_code": "SE"
+  },
+  {
+    "name_en_full": "Swiss Confederation",
+    "name_en_short": "Switzerland",
+    "name_ru_full": "Швейцарская Конфедерация",
+    "name_ru_short": "Швейцария",
+    "dial_code": "+41",
+    "iso_code": "CH"
+  },
+  {
+    "name_en_full": "Syrian Arab Republic",
+    "name_en_short": "Syria",
+    "name_ru_full": "Сирийская Арабская Республика",
+    "name_ru_short": "Сирия",
+    "dial_code": "+963",
+    "iso_code": "SY"
+  },
+  {
+    "name_en_full": "Republic of China (Taiwan)",
+    "name_en_short": "Taiwan",
+    "name_ru_full": "Китайская Республика (Тайвань)",
+    "name_ru_short": "Тайвань",
+    "dial_code": "+886",
+    "iso_code": "TW"
+  },
+  {
+    "name_en_full": "Republic of Tajikistan",
+    "name_en_short": "Tajikistan",
+    "name_ru_full": "Республика Таджикистан",
+    "name_ru_short": "Таджикистан",
+    "dial_code": "+992",
+    "iso_code": "TJ"
+  },
+  {
+    "name_en_full": "United Republic of Tanzania",
+    "name_en_short": "Tanzania",
+    "name_ru_full": "Объединённая Республика Танзания",
+    "name_ru_short": "Танзания",
+    "dial_code": "+255",
+    "iso_code": "TZ"
+  },
+  {
+    "name_en_full": "Kingdom of Thailand",
+    "name_en_short": "Thailand",
+    "name_ru_full": "Королевство Таиланд",
+    "name_ru_short": "Таиланд",
+    "dial_code": "+66",
+    "iso_code": "TH"
+  },
+  {
+    "name_en_full": "Democratic Republic of Timor-Leste",
+    "name_en_short": "East Timor",
+    "name_ru_full": "Демократическая Республика Восточный Тимор",
+    "name_ru_short": "Восточный Тимор",
+    "dial_code": "+670",
+    "iso_code": "TL"
+  },
+  {
+    "name_en_full": "Togolese Republic",
+    "name_en_short": "Togo",
+    "name_ru_full": "Тоголезская республика",
+    "name_ru_short": "Того",
+    "dial_code": "+228",
+    "iso_code": "TG"
+  },
+  {
+    "name_en_full": "Tokelau",
+    "name_en_short": "Tokelau",
+    "name_ru_full": "Токелау",
+    "name_ru_short": "Токелау",
+    "dial_code": "+690",
+    "iso_code": "TK"
+  },
+  {
+    "name_en_full": "Kingdom of Tonga",
+    "name_en_short": "Tonga",
+    "name_ru_full": "Королевство Тонга",
+    "name_ru_short": "Тонга",
+    "dial_code": "+676",
+    "iso_code": "TO"
+  },
+  {
+    "name_en_full": "Republic of Trinidad and Tobago",
+    "name_en_short": "Trinidad and Tobago",
+    "name_ru_full": "Республика Тринидад и Тобаго",
+    "name_ru_short": "Тринидад и Тобаго",
+    "dial_code": "+1 868",
+    "iso_code": "TT"
+  },
+  {
+    "name_en_full": "Republic of Tunisia",
+    "name_en_short": "Tunisia",
+    "name_ru_full": "Тунисская Республика",
+    "name_ru_short": "Тунис",
+    "dial_code": "+216",
+    "iso_code": "TN"
+  },
+  {
+    "name_en_full": "Republic of Turkey",
+    "name_en_short": "Turkey",
+    "name_ru_full": "Турецкая Республика",
+    "name_ru_short": "Турция",
+    "dial_code": "+90",
+    "iso_code": "TR"
+  },
+  {
+    "name_en_full": "Turkmenistan",
+    "name_en_short": "Turkmenistan",
+    "name_ru_full": "Туркменистан",
+    "name_ru_short": "Туркменистан",
+    "dial_code": "+993",
+    "iso_code": "TM"
+  },
+  {
+    "name_en_full": "Turks and Caicos Islands",
+    "name_en_short": "Turks and Caicos Islands",
+    "name_ru_full": "Теркс и Кайкос острова",
+    "name_ru_short": "Теркс и Кайкос острова",
+    "dial_code": "+1 649",
+    "iso_code": "TC"
+  },
+  {
+    "name_en_full": "Tuvalu",
+    "name_en_short": "Tuvalu",
+    "name_ru_full": "Тувалу",
+    "name_ru_short": "Тувалу",
+    "dial_code": "+688",
+    "iso_code": "TV"
+  },
+  {
+    "name_en_full": "Republic of Uganda",
+    "name_en_short": "Uganda",
+    "name_ru_full": "Республика Уганда",
+    "name_ru_short": "Уганда",
+    "dial_code": "+256",
+    "iso_code": "UG"
+  },
+  {
+    "name_en_full": "Ukraine",
+    "name_en_short": "Ukraine",
+    "name_ru_full": "Украина",
+    "name_ru_short": "Украина",
+    "dial_code": "+380",
+    "iso_code": "UA"
+  },
+  {
+    "name_en_full": "United Arab Emirates",
+    "name_en_short": "United Arab Emirates",
+    "name_ru_full": "Объединенные Арабские Эмираты",
+    "name_ru_short": "Объединенные Арабские Эмираты",
+    "dial_code": "+971",
+    "iso_code": "AE"
+  },
+  {
+    "name_en_full": "United Kingdom of Great Britain and Northern Ireland",
+    "name_en_short": "Britain",
+    "name_ru_full": "Соединенное Королевство Великобритании и Северной Ирландии",
+    "name_ru_short": "Великобритания",
+    "dial_code": "+44",
+    "iso_code": "GB"
+  },
+  {
+    "name_en_full": "United States of America",
+    "name_en_short": "USA",
+    "name_ru_full": "Соединенные Штаты Америки",
+    "name_ru_short": "США",
+    "dial_code": "+1",
+    "iso_code": "US"
+  },
+  {
+    "name_en_full": "Oriental Republic of Uruguay",
+    "name_en_short": "Uruguay",
+    "name_ru_full": "Восточная Республика Уругвай",
+    "name_ru_short": "Уругвай",
+    "dial_code": "+598",
+    "iso_code": "UY"
+  },
+  {
+    "name_en_full": "Republic of Uzbekistan",
+    "name_en_short": "Uzbekistan",
+    "name_ru_full": "Республика Узбекистан",
+    "name_ru_short": "Узбекистан",
+    "dial_code": "+998",
+    "iso_code": "UZ"
+  },
+  {
+    "name_en_full": "Republic of Vanuatu",
+    "name_en_short": "Vanuatu",
+    "name_ru_full": "Республика Вануату",
+    "name_ru_short": "Вануату",
+    "dial_code": "+678",
+    "iso_code": "VU"
+  },
+  {
+    "name_en_full": "Bolivarian Republic of Venezuela",
+    "name_en_short": "Venezuela",
+    "name_ru_full": "Боливарианская Республика Венесуэла",
+    "name_ru_short": "Венесуэла",
+    "dial_code": "+58",
+    "iso_code": "VE"
+  },
+  {
+    "name_en_full": "Socialist Republic of Vietnam",
+    "name_en_short": "Vietnam",
+    "name_ru_full": "Социалистическая Республика Вьетнам",
+    "name_ru_short": "Вьетнам",
+    "dial_code": "+84",
+    "iso_code": "VN"
+  },
+  {
+    "name_en_full": "British Virgin Islands",
+    "name_en_short": "Virgin Islands, British",
+    "name_ru_full": "Британские Виргинские острова",
+    "name_ru_short": "Британские Виргинские острова",
+    "dial_code": "+1 284",
+    "iso_code": "VG"
+  },
+  {
+    "name_en_full": "United States Virgin Islands",
+    "name_en_short": "Virgin Islands, U.S.",
+    "name_ru_full": "Американские Виргинские острова",
+    "name_ru_short": "Американские Виргинские острова",
+    "dial_code": "+1 340",
+    "iso_code": "VI"
+  },
+  {
+    "name_en_full": "Wallis and Futuna Islands",
+    "name_en_short": "Wallis and Futuna Islands",
+    "name_ru_full": "Острова Уоллис и Футуна",
+    "name_ru_short": "Острова Уоллис и Футуна",
+    "dial_code": "+681",
+    "iso_code": "WF"
+  },
+  {
+    "name_en_full": "Republic of Yemen",
+    "name_en_short": "Yemen",
+    "name_ru_full": "Йеменская Республика",
+    "name_ru_short": "Йемен",
+    "dial_code": "+967",
+    "iso_code": "YE"
+  },
+  {
+    "name_en_full": "Republic of Zambia",
+    "name_en_short": "Zambia",
+    "name_ru_full": "Республика Замбия",
+    "name_ru_short": "Замбия",
+    "dial_code": "+260",
+    "iso_code": "ZM"
+  },
+  {
+    "name_en_full": "Republic of Zimbabwe",
+    "name_en_short": "Zimbabwe",
+    "name_ru_full": "Республика Зимбабве",
+    "name_ru_short": "Зимбабве",
+    "dial_code": "+263",
+    "iso_code": "ZW"
+  }
+]
